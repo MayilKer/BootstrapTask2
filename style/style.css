@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+#header .logo a{
+    font-size: 20px;
+}
+
+#header .navbar a{
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+}
+
+
+
